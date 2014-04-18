@@ -1,4 +1,6 @@
-scala-tiles-puzzle-solver
+Scala Tiles Puzzle Solver
 =========================
 
-Scala solution to a puzzle with tiles.
+This program solves the puzzle described by the image below.
+
+![puzzle](http://famsterdamworld.com/ticofab/puzzle.jpg)
